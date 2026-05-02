@@ -164,8 +164,3 @@ Dense(1) + Sigmoid
 2. [TensorFlow 官方文档](https://www.tensorflow.org/)
 3. [医学影像深度学习入门](https://arxiv.org/)
 
-## 作者信息
-
-- **姓名**: 贺春盈
-- **学号**: 2025540152
-- **班级**: 机研251
