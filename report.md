@@ -49,7 +49,7 @@ chest_xray/
 
 **数据集类别不平衡问题**：Pneumonia样本数量约为Normal样本的2.77倍（3835:1385），这会导致模型偏向于预测Pneumonia类别。
 
-![数据集类别分布](figures/全部数据_distribution.png)
+![数据集类别分布](figures/all_data_distribution.png)
 
 ### 2.4 数据预处理
 1. **统一尺寸**：224 × 224
